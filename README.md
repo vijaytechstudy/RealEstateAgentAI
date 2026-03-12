@@ -1,0 +1,12 @@
+Add .env file under root of backend and add below keys:
+MONGODB_URI=mongodb://127.0.0.1:27017/realestate_ai
+JWT_SECRET=supersecretjwt
+OPENAI_API_KEY=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
+FRONTEND_URL=http://localhost:3000
+RAZORPAY_KEY_ID=your-razorpay-key-id
+RAZORPAY_KEY_SECRET=your-razorpay-key-secret
+RAZORPAY_WEBHOOK_SECRET=your-razorpay-webhook-secret
+RAZORPAY_PLAN_STARTER=plan_XXXXXXXXXXXX
+RAZORPAY_PLAN_PROFESSIONAL=plan_YYYYYYYYYYYY
+RAZORPAY_PLAN_AGENCY=plan_ZZZZZZZZZZZZ
+
